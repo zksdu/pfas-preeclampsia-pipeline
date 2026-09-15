@@ -1,7 +1,7 @@
 # PFAS × Preeclampsia — Analysis Code Package
 
 **GitHub repository:** https://github.com/zksdu/pfas-preeclampsia-pipeline
-**Zenodo archived version:** https://doi.org/10.5281/zenodo.XXXXXXX (DOI to be assigned)
+**Zenodo archived version:** https://doi.org/10.5281/zenodo.22761409
 
 Code accompanying the manuscript:
 
@@ -13,7 +13,7 @@ An eight-step closed-loop computational pipeline: computational toxicology → p
 
 **Bing Song** — The Third Affiliated Hospital of Guangzhou Medical University (bingsong2012683034@gzhmu.edu.cn)
 
-If you use this code, please cite the corresponding manuscript and this archived version (Zenodo DOI: 10.5281/zenodo.XXXXXXX, to be assigned).
+If you use this code, please cite the corresponding manuscript and this archived version (Zenodo DOI: 10.5281/zenodo.22761409).
 
 ## Contents
 
