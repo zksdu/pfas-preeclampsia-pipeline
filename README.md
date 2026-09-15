@@ -1,7 +1,7 @@
 # PFAS × Preeclampsia — Analysis Code Package
 
 **GitHub repository:** https://github.com/zksdu/pfas-preeclampsia-pipeline
-**Zenodo archived version:** https://doi.org/10.5281/zenodo.22761409
+**Zenodo archived version:** https://doi.org/10.5281/zenodo.22761408
 
 Code accompanying the manuscript:
 
