@@ -9,6 +9,12 @@ Code accompanying the manuscript:
 
 An eight-step closed-loop computational pipeline: computational toxicology → placental transcriptomics → PPI/enrichment → three-algorithm machine learning → two-sample Mendelian randomization with colocalization → immune deconvolution → molecular docking → molecular dynamics.
 
+## Author / Citation
+
+**Bing Song** — The Third Affiliated Hospital of Guangzhou Medical University (bingsong2012683034@gzhmu.edu.cn)
+
+If you use this code, please cite the corresponding manuscript and this archived version (Zenodo DOI: 10.5281/zenodo.XXXXXXX, to be assigned).
+
 ## Contents
 
 ```
